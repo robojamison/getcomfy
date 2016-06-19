@@ -1,0 +1,12 @@
+
+
+Version:	3.8
+CmdLine:	D:\Projects\GetComfy\GetComfy.exe --l4j-debug
+WOW64:		yes
+Working dir:	D:\Projects\GetComfy\.
+Bundled JRE:	jre\jre1.8.0_92
+Check launcher:	D:\Projects\GetComfy\jre\jre1.8.0_92\bin\javaw.exe (OK)
+Launcher:	D:\Projects\GetComfy\jre\jre1.8.0_92\bin\javaw.exe
+Launcher args:	-jar "D:\Projects\GetComfy\GetComfy.exe"
+Args length:	40/32768 chars
+Exit code:	0
