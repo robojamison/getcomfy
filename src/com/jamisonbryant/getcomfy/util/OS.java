@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
 /**
  * A utility class for getting operating system details.
  *
- * @author Jamison Bryant
+ * @author Jamison Bryant (robojamison@gmail.com)
  * @since  0.1.0
  */
 public class OS
